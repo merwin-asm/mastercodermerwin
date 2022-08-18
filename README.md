@@ -26,7 +26,8 @@
 <a href="https://discord.gg/PyRdVJEYuG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PyRdVJEYuG" height="30" width="40" /></a>
 </p>
 
-🥷 Fast Coders🥷 
+<h2 align="center">OUR SERVER</h3>
+<h3 align="center">🥷 Fast Coders🥷 </h3>
 
 
  🎉   Join Our Server if you are a programmer or interested in it.. 😄 🎉 
