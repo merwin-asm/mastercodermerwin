@@ -12,9 +12,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cactochan" alt="cactochan" /></a> </p>
 
 
-- 🔭 I’m currently working at a startup... **Wheresome (org)**
+- 🔭 I’m currently working at a startup... **DARKMASH (https://darkmash-org.github.io/)**
 
-- 🤠 I’m currently working on **Spill.Py**
+- 🤠 I’m currently working on **Any.Py**
 
 - 📫 How to reach me **cactochan#9188**
 
