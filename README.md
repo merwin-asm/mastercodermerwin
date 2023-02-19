@@ -35,7 +35,7 @@
 - ⚡ Fun fact **He He notin funny here**
 
 <hr>
-<p align="center">
+<p >
  <img src="https://github-readme-stats.vercel.app/api?username=mastercodermerwin&show_icons=true&theme=radical">
  <img src="https://streak-stats.demolab.com?user=mastercodermerwin&theme=radical" />
 
