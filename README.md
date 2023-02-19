@@ -30,7 +30,7 @@
 
 - 🤠 I’m currently working on **Any.Py**
 
-- 📫 How to reach me via Discord - **cactochan#2004** or Twitter - **@MerwinMathews** 
+- 📫 How to reach me via Discord - **cactochan#2004** or Twitter - **@MerwinMathews**  
 
 - ⚡ Fun fact **He He notin funny here**
 
