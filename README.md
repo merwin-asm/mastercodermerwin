@@ -20,8 +20,9 @@
 
 </div>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mastercodermerwin&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mastercodermerwin&theme=onedark&no-frame=true&row=1&column=7">
+</p>
 
 
 - 🔭 I’m currently working at a startup... **DARKMASH (https://darkmash-org.github.io/)**
