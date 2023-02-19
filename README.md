@@ -4,7 +4,7 @@
 <h1 align="left">Hi 👋, I'm Cactochan aka Merwin</h1>
 <h3 align="left">Just an another developer...</h3>
 
-<p align="left",float="right"> <img src="https://komarev.com/ghpvc/?username=cactochan&label=Profile%20views&color=0e75b6&style=flat" alt="cactochan" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cactochan&label=Profile%20views&color=0e75b6&style=flat" alt="cactochan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/merwinmathews" target="blank"><img src="https://img.shields.io/twitter/follow/merwinmathews?logo=twitter&style=for-the-badge" alt="merwinmathews" /></a> </p>
 
