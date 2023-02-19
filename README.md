@@ -11,8 +11,8 @@
 <a id="a" href="https://twitter.com/merwinmathews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merwinmathews" height="30" width="40" /></a>
     
 <a  href="https://discord.gg/PyRdVJEYuG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PyRdVJEYuG" height="30" width="40" /></a>
-  
-  <img  src="https://komarev.com/ghpvc/?username=cactochan&label=Profile%20views&color=0e75b6&style=flat" alt="cactochan" /> </p>
+  </p> 
+  <p align="right"><img  src="https://komarev.com/ghpvc/?username=cactochan&label=Profile%20views&color=0e75b6&style=flat" alt="cactochan" /> </p>
 
 </div>
 
