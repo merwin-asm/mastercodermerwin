@@ -32,10 +32,10 @@
 
 - ⚡ Fun fact **He He notin funny here**
 
-<div>
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=mastercodermerwin&show_icons=true&theme=radical">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodermerwin&layout=compact&langs_count=10&theme=radical">
- </div>
+ </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mastercodermerwin&theme=radical" />
 </p>
