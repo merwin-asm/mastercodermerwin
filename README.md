@@ -50,4 +50,3 @@ https://discord.gg/PyRdVJEYuG
 
 [![Cactochan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastercodermerwin)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cactochan&" alt="cactochan" /></p>
