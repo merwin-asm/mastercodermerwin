@@ -50,7 +50,8 @@ https://discord.gg/PyRdVJEYuG
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodermerwin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=mastercodermerwin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=mastercodermerwin&show_icons=true&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodermerwin&layout=compact&theme=radical">
  </div>
 
 <h3 align="left">Languages and Tools:</h3>
