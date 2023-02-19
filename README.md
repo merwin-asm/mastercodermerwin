@@ -4,11 +4,6 @@
 <h1 align="left">Hi 👋, I'm Cactochan aka Merwin</h1>
 <h3 align="left">Just an another developer...</h3>
 
-<style>
-  #a{
-  float:left;
-  }
-  </style>
 
 <div>
   
