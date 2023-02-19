@@ -15,6 +15,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cactochan" alt="cactochan" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mastercodermerwin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🔭 I’m currently working at a startup... **DARKMASH (https://darkmash-org.github.io/)**
 
