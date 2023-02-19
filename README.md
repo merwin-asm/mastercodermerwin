@@ -28,8 +28,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodermerwin&layout=compact&langs_count=10&theme=radical">
  </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mastercodermerwin"/>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mastercodermerwin&theme=radical)](https://git.io/streak-stats)
 
 <hr>
 
