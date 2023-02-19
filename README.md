@@ -25,7 +25,7 @@
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=mastercodermerwin&show_icons=true&theme=radical">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodermerwin&layout=compact&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodermerwin&layout=compact&theme=radical&langs_count=10">
  </div>
 
 
