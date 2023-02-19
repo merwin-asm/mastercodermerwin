@@ -11,7 +11,7 @@
    <a href="https://twitter.com/MerwinMathews"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100" /></a>
    <a href="https://www.patreon.com/Cactochan"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" width="100" /></a>
   
-  <p align="right"><img  src="https://komarev.com/ghpvc/?username=cactochan&label=Profile%20views&color=0e75b6&style=flat" alt="cactochan" /> </p>
+  <img  align="right" src="https://komarev.com/ghpvc/?username=cactochan&label=Profile%20views&color=0e75b6&style=flat" alt="cactochan" />
 
 </p>
 
