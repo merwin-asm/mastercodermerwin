@@ -4,6 +4,7 @@
 <h1 align="left">Hi 👋, I'm Cactochan aka Merwin</h1>
 <h3 align="left">Just an another developer...</h3>
 
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/MrCactochan?style=for-the-badge&logo=reddit)
 
 <div>
  
