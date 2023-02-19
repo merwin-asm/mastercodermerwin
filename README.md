@@ -10,6 +10,8 @@
   <a href="https://discord.gg/PyRdVJEYuG"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100" /></a>
    <a href="https://twitter.com/MerwinMathews"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100" /></a>
    <a href="https://www.patreon.com/Cactochan"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" width="100" /></a>
+  
+  <img  src="https://komarev.com/ghpvc/?username=cactochan&label=Profile%20views&color=0e75b6&style=flat" alt="cactochan" /> 
 
 </p>
 
