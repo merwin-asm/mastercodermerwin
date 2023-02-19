@@ -36,7 +36,7 @@
 
 <hr>
 <p align="center">
- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mastercodermerwin&show_icons=true&theme=radical">
+ <img width="47%" src="https://github-readme-stats.vercel.app/api?username=mastercodermerwin&show_icons=true&theme=radical">
  <img width="50%" src="https://streak-stats.demolab.com?user=mastercodermerwin&theme=radical" />
 
  </p>
