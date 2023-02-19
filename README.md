@@ -3,14 +3,21 @@
 
 <h1 align="left">Hi 👋, I'm Cactochan aka Merwin</h1>
 <h3 align="left">Just an another developer...</h3>
+
+<style>
+  #a{
+  float:left;
+  }
+  </style>
+
 <div>
   
   <p>
-<a float="left" href="https://twitter.com/merwinmathews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merwinmathews" height="30" width="40" /></a>
+<a id="a" href="https://twitter.com/merwinmathews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merwinmathews" height="30" width="40" /></a>
     
-<a float="left" href="https://discord.gg/PyRdVJEYuG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PyRdVJEYuG" height="30" width="40" /></a>
+<a  href="https://discord.gg/PyRdVJEYuG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PyRdVJEYuG" height="30" width="40" /></a>
   
-  <img float="left" src="https://komarev.com/ghpvc/?username=cactochan&label=Profile%20views&color=0e75b6&style=flat" alt="cactochan" /> </p>
+  <img  src="https://komarev.com/ghpvc/?username=cactochan&label=Profile%20views&color=0e75b6&style=flat" alt="cactochan" /> </p>
 
 </div>
 
