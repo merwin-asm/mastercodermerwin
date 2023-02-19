@@ -70,7 +70,7 @@ https://discord.gg/PyRdVJEYuG
  
 
 
-<hr>
+<hr> 
 
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
